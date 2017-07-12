@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="one">tee</string>
+    <string name="two">pedi</string>
+    <string name="three">tharo</string>
+    <string name="four">nne</string>
+    <string name="five">hlano</string>
+    <string name="six">selela</string>
+    <string name="seven">supa</string>
+    <string name="ten">lesome</string>
+    <string name="nine">senyane</string>
+    <string name="eight">seswai</string>
+    <string name="mother">mma</string>
+    <string name="father">papa</string>
+    <string name="son">morwa</string>
+    <string name="daughter">morwedi</string>
+    <string name="grandfather">rakgolo</string>
+    <string name="olderbrother">mogolo</string>
+    <string name="grandmother">koko</string>
+    <string name="oldersister">mogolle</string>
+    <string name="youngerbrother">moratho</string>
+    <string name="youngersister">moratho</string>
+    <string name="green">tala</string>
+    <string name="black">botsho</string>
+    <string name="brown">sootho</string>
+    <string name="white">bosoeu</string>
+    <string name="gray">bohlooho</string>
+    <string name="mustardyellow">mosetareta mosehla</string>
+    <string name="dustyyellow">lerōle mosehla</string>
+    <string name="red">khubelu</string>
+    <string name="my">Leina la ka ke...</string>
+    <string name="name">Leina la gago o mang?</string>
+    <string name="you">O ya kae?</string>
+    <string name="feeling">O tekwa bjang?</string>
+    <string name="coming">O wa tla na.</string>
+    <string name="go">Ga re sepele</string>
+    <string name="good">Ke kwa bose</string>
+    <string name="yes">Ee, ke e tla</string>
+    <string name="come">E tla keno</string>
+    <string name="category_numbers">Dinomoro</string>
+    <string name="category_family">Leloko</string>
+    <string name="category_colors">Mmebala</string>
+</resources>

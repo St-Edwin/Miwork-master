@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Miwok</string>
+    <string name="one">n\'we</string>
+    <string name="two">mbirhi</string>
+    <string name="three">nharhu</string>
+    <string name="four">mune</string>
+    <string name="five">ntlhanu</string>
+    <string name="six">tsevu</string>
+    <string name="seven">nkombo</string>
+    <string name="eight">nhungu</string>
+    <string name="nine">kaye</string>
+    <string name="ten">khume</string>
+    <string name="red">tshwuka</string>
+    <string name="white">basa</string>
+    <string name="black">ntima</string>
+    <string name="brown">ribungwa</string>
+    <string name="father">papa</string>
+    <string name="mother">mhani</string>
+    <string name="daughter">nwana-waxisati</string>
+    <string name="grandfather">kokwana</string>
+    <string name="grandmother">kokwana</string>
+    <string name="olderbrother">boti</string>
+    <string name="oldersister">sesi</string>
+    <string name="youngerbrother">ndisani</string>
+    <string name="youngersister">ndisani</string>
+    <string name="son">nwana-waxinuna</string>
+    <string name="come">"tana "</string>
+    <string name="coming">wata na</string>
+    <string name="dustyyellow">xitshopani</string>
+    <string name="feeling">u titwa njhani?</string>
+    <string name="go">a hi fambi</string>
+    <string name="good">ni titwa kahle</string>
+    <string name="gray"></string>
+    <string name="green">rihlaza</string>
+    <string name="language_setting"></string>
+    <string name="mustardyellow">xitshopani</string>
+    <string name="my">vito ra mina hi...</string>
+    <string name="name">hi wena mani vito?</string>
+    <string name="yes">ina nata</string>
+    <string name="you">u ya kwini?</string>
+    <string name="category_colors">Mihlovo</string>
+    <string name="category_family">Vanhu vale kaya</string>
+    <string name="category_numbers">Tinambara</string>
+    <string name="category_phrases">Tindimana</string>
+</resources>
